@@ -1,43 +1,33 @@
-title: Texture Theme
-author: GitHub User
-email: your-email@domain.com
-description: > # this means to ignore newlines until "show_exerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-show_excerpts: true # set to true to show excerpts on the homepage
-baseurl: /texture
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that.
+# This file is *NOT* reloaded automatically when you use 'bundle exec jekyll serve'. 
+# If you change this file, please restart the server process.
 
-# Minima date format
-# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
-sass:
-  sass_dir: _sass
+# Site settings
+# are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
 
-permalink: /posts/:title/
-texture:
-  title: Adam Denisov
-  tagline: Developer. Designer
-  date_format: "%b %-d, %Y"
-  style: black
-  showNav: false
-  showPicker: true
+theme: jekyll-agency
 
-  # generate social links in footer
-  social_links:
-    twitter: thelehhman
-    github:  thelehhman
-    linkedIn: in/thelehhman
-    rss: rss
- 
+url    : "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
 
-# If you want to link only specific pages in your header, uncomment
-# this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.md
+title      : Your Awesome Website 
+email      : your-email@example.com #this is also the email contact forms will go to
+description: "Site description"
+author     : Your Name
+# logo:     #optional, defaults to site title
+  # path: assets\img\clients\creative-market.jpg
+  # height: 60 #height in px, defaults to 52px
 
-# Build settings
-# theme: texture
+analytics:
+  google: #Google Analytics tracking code here
 
-plugins:
-  - jekyll-seo-tag
-#  - jekyll-feed
+collections:
+  portfolio:
+
+markdown: kramdown

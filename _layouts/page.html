@@ -1,20 +1,14 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	{%- include head.html -%}
-</head>
-<body>
-	<header class="texture-{{ site.texture.style }}">
-		<div class="container">
-			{%- include nav.html -%}
-		</div>
-		{%- include page_header.html -%}	
-	</header>
-	<main>
-		<div class="container">
-			{{ content }}
-		</div>
-	</main>
-	{%- include footer.html -%}
-</body>
-</html>
+---
+layout: default
+---
+{% include nav.html %}
+
+{% if page.background == "grey" or page.background == "gray" %}
+<script>
+document.getElementById("page-top").className="bg-light";
+</script>
+{% endif %}
+
+<div class="container" id="pagecontainer">
+{{ content }}
+</div>
