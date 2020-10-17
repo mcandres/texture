@@ -5,4 +5,4 @@ category: Services
 title: ¿Nuestra Meta?<br>
 description: |
 ---
-  
+  Nuestro objetivo es cumplir tus sueños, mantener tu dieta sana y equilibrada con la figura que tanto deseas, queremos ayudarte a tener la satisfaccion de haber logrado todo lo que te has propuesto
