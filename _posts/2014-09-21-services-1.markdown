@@ -5,4 +5,4 @@ category: Services
 title: ¿De Dónde Somos?<br>Somos de ECUADOR
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+  Somos un gym de Ecuador y estamos orgullosos de ser parte de este bello país, somos ecuatorianos de corazón, nuestros entrenadores son de Ecuador y el fundador también es de Ecuador de la ciudad de Guayaquil, nosotros recibimos especialmente a la gente nacional con todo nuestro cariño y hospitalidad.
