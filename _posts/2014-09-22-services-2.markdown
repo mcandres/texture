@@ -1,6 +1,6 @@
 ---
 layout: default
-img: dog.png
+img: meta.jpg
 category: Services
 title: ¿Nuestra Meta?<br>
 description: |
