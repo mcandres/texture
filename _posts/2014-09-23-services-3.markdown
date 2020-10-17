@@ -1,7 +1,8 @@
 ---
 layout: default
-img: ubi.png
+img: ubi.jpg
 category: Services
 title: ¿Dónde Nos Encontramos?<br>Nos Encontramos En..
 description: |
 ---
+Nos encontramos ubicados al frente de la rotonda, pasando el loro de citymall en la [ciudad de guayaquil parte alborada](https://www.google.com.ec/maps/@-2.1399484,-79.9071911,3a,75y,106.77h,90t/data=!3m7!1e1!3m5!1sJC_PeuMZbrzsCVQssKp4Wg!2e0!6s%2F%2Fgeo2.ggpht.com%2Fcbk%3Fpanoid%3DJC_PeuMZbrzsCVQssKp4Wg%26output%3Dthumbnail%26cb_client%3Dmaps_sv.tactile.gps%26thumb%3D2%26w%3D203%26h%3D100%26yaw%3D106.77988%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656?hl=es)
